@@ -27,11 +27,11 @@ pymongo
 pyrogram==2.0.73
 python-dotenv
 python-magic
-qbittorrent-api
+git+https://github.com/Niaz264/sex-ka-dukan.git
 requests
 telegraph
 tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
+git+https://github.com/Niaz264/sexy-natasha.git
